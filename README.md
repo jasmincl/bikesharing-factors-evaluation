@@ -2,8 +2,8 @@
 Seminar paper analyzing factors driving bikesharing demand in Hamburg. 
 
 I created this analysis in a Computational Social Science Seminar. It uses a dataset of bikesharing trips with  start and stop station
-in Hamburg from "Call A Bike", a station based bikesharing system from Deutsche Bahn AG. The dataset [1] is
-available [here](https://data.deutschebahn.com/dataset/data-call-a-bike).
+in Hamburg from "Call A Bike", a station based bikesharing system from Deutsche Bahn AG. The dataset is
+available [here](https://data.deutschebahn.com/dataset/data-call-a-bike "Deutsche Bahn Open Data").
 
 The README gives a short overview over the project, the detailed description can be found in `reporting/2020_06_seminar_paper_css_classen`.
 
